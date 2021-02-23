@@ -4,6 +4,9 @@ body {
     font: normal 15pt Arial;
 }
 
+h1{
+    color: white;
+}
 header, main, h1 {
     display: flex;
     flex-direction: column;
