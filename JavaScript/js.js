@@ -3,7 +3,7 @@ let turnOff = document.getElementById('turnOff')
 let lamp = document.getElementById('lamp')
 
 
-
+// This code turnOn 
 turnOn.addEventListener('click', () =>{
     lamp.src = 'img/ligada.jpg'
 })
