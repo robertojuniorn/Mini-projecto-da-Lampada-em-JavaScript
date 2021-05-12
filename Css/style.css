@@ -13,6 +13,10 @@ header, main, h1 {
     align-items: center;
 }
 
+h1{
+    align-items: center;
+}
+
 button {
     width: 80px;
 }
